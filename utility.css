@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    width: 100%;    
+    font-family:'Times New Roman';
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    cursor: pointer;
+}
+
+nav{
+    height: 100px;
+}
