@@ -3,7 +3,7 @@
 A Calculator is built utilizing HTML, CSS, JavaScript. It has an ability to perform Arthematic operations like Addition, Subtraction, Multiplication and Division.
 
 ### Snapshot of the output
-![Snapshot of the Result](/Snpshot.png)
+![Snapshot of the Result](/Snapshot.png)
 
 ### Future Work:
 <ul>
